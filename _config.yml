@@ -1,7 +1,7 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "/images/HelloBelloLogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1 style="text-align: center;" markdown="1"><b style="color:#F1FAFA;"><b>PREMIUM, PLANT-BASED, AFFORDABLE BABY PRODUCTS</h1></b>
+  <h1 style="text-align: center;" markdown="1"><b style="color:#FEC35B;"><b>PREMIUM, PLANT-BASED, AFFORDABLE BABY PRODUCTS</h1></b>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>Join us for networking events at our 55+ active adult community. Learn how referring clients will earn you cash rewards.</h2></b>
   <br><br>
@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
  
 theme: jekyll-theme-minimal
 # Google Analytics
-google_analytics: UA-201444041-1 
+google_analytics: UA-000000000-0 
