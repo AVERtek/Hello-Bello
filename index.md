@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h1><b> "Check Back to Experience Our New Upcoming Augmented Reality Packaging" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 </div>
   <p align="center">
   <img src="images/Header 1a.jpg" width=750>
