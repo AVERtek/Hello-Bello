@@ -3,7 +3,7 @@ logo1: "/images/HelloBelloLogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b style="color:#FEC35B;"><b>PREMIUM, PLANT-BASED, AFFORDABLE BABY PRODUCTS</h1></b>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>MEET MOM & DAD:</b><a href="https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182" onclick="getOutboundLink('https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182'); return false;"<b> Dax & Kristen</b></h2></a>
+  <h2 style="text-align: center;" markdown="1"><a href="https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182" onclick="getOutboundLink('https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182'); return false;"<b> MEET MOM & DAD</b></h2></a>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>ABOUT</b><a href="https://hellobello.com/pages/about" onclick="getOutboundLink('https://hellobello.com/pages/about'); return false;"<b> OUR STORY</b></h2></a>
   <br><br>
