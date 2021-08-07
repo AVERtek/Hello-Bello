@@ -3,10 +3,14 @@ logo1: "/images/HelloBelloLogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b style="color:#FEC35B;"><b>PREMIUM, PLANT-BASED, AFFORDABLE BABY PRODUCTS</h1></b>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>Join us for networking events at our 55+ active adult community. Learn how referring clients will earn you cash rewards.</h2></b>
+  <h2 style="text-align: center;" markdown="1"><b>MEET MOM & DAD:</b><a href="https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182" onclick="getOutboundLink('https://cdn.shopify.com/s/files/1/0135/8810/3227/files/HB-HomePage-V1-LOOP.mp4?v=1599614182'); return false;"<b> Dax & Kristen</b></h2></a>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>JOIN US:</b><a href="mailto:AvenidaPalmDesert@Sares-Regis.com?Subject=Professional Event RSVP" onclick="getOutboundLink('mailto:AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> RSVP HERE</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><b>ABOUT</b><a href="https://hellobello.com/pages/about" onclick="getOutboundLink('https://hellobello.com/pages/about'); return false;"<b> OUR STORY</b></h2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>VISIT</b><a href="https://hellobello.com/" onclick="getOutboundLink('https://hellobello.com/'); return false;"<b> WEBSITE</b></h2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>JOIN</b><a href="https://hellobello.com/pages/contact" onclick="getOutboundLink('https://hellobello.com/pages/contact'); return false;"<b> OUR VILLAGE</b></h2></a> 
  
 theme: jekyll-theme-minimal
 # Google Analytics
-google_analytics: UA-000000000-0 
+google_analytics: UA-00000000-0 
